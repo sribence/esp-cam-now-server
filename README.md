@@ -1,5 +1,5 @@
 # esp-cam-now-server
-##📡 ESP32-CAM Wireless Image Transfer using ESP-NOW
+## 📡 ESP32-CAM Wireless Image Transfer using ESP-NOW
 
 This project demonstrates how to wirelessly capture and transmit JPEG images from an ESP32-CAM to a receiver ESP32 module using ESP-NOW — a lightweight, connectionless WiFi communication protocol developed by Espressif. The receiver stores the image on SPIFFS and serves it via a local HTTP endpoint.
 
